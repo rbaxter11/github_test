@@ -1,3 +1,5 @@
 This is a change to this file to test making commits and pushing them to GitHub
 
 Here is another sentence to add to this file.
+
+And this is today's date: Tuesday, October 20, 2020
